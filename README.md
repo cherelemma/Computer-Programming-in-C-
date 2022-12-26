@@ -1,4 +1,4 @@
-# COMPUTER PROGRAMMING IN C++
+# Computer Programming In C++
 
 The course Fundamentals of Computer programming involves various activities such as 
 - understanding and analysis of problems, 
